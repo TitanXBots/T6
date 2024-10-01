@@ -59,6 +59,8 @@ Join Our [Telegram Group](https://www.telegram.dog/TitanMattersSupport) For Supp
    
 Report Bugs, Give Feature Requests There...   
 
-##
+## 📌 𝑵𝒐𝒕𝒆
 
-   **Star this Repo if you Liked it ⭐⭐⭐⭐⭐**
+ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.
+
+   **ꜱᴛᴀʀ ᴛʜɪꜱ ʀᴇᴘᴏ ɪꜰ ʏᴏᴜ ʟɪᴋᴇᴅ ɪᴛ ⭐⭐⭐⭐⭐**
