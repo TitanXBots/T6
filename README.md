@@ -2,8 +2,7 @@
 
 
 <p align="center">
-  <img src="https://envs.sh/image.jpg
-      " alt="FileStore Logo">
+  <img src="https://ibb.co/RD71mff/image.jpg" alt="FileStore Logo">
 </p>
 <h1 align="center">
   𝑻𝑰𝑻𝑨𝑵-𝑭𝑰𝑳𝑬𝑺𝑻𝑶𝑹𝑬
