@@ -63,13 +63,26 @@ The fastest way to deploy the application is to click the **Deploy to Koyeb** bu
 * `PROTECT_CONTENT` Optional: True if you need to prevent files from forwarding
 
 
-## Support   
+### Support   
 Join Our [Telegram Group](https://www.telegram.dog/TitanMattersSupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/TitanXBots) For Updates.   
    
 Report Bugs, Give Feature Requests There...   
 
-## 📌 𝑵𝒐𝒕𝒆
+### 📌 𝑵𝒐𝒕𝒆
 
 ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.
 
    **ꜱᴛᴀʀ ᴛʜɪꜱ ʀᴇᴘᴏ ɪꜰ ʏᴏᴜ ʟɪᴋᴇᴅ ɪᴛ ⭐⭐⭐⭐⭐**
+
+### Contact Me
+
+<p align="center">
+<a href="https://telegram.me/TitanOwner"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
+### Follow Me On
+
+</p>
+<p align="center">
+<a href="https://telegram.me/TitanXBots"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.youtube.com/@TitanTechMatters"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
