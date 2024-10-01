@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://envs.sh/Wep.jpg
+  <img src="https://envs.sh/image.jpg
       " alt="FileStore Logo">
 </p>
 <h1 align="center">
