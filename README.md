@@ -15,4 +15,5 @@
 <p align="center">
 <a href="https://telegram.me/TitanXBots"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.youtube.com/@TitanTechMatters"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://telegram.me/TitanOwner"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
