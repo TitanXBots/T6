@@ -16,12 +16,12 @@ I Guess This Will Be Usefull For Many People.....😇.
 - Fully customisable.
 - Customisable welcome & Forcesub messages.
 - More than one Posts in One Link.
-- Four ForceSub Channels.
+- 4 ForceSub Channels.
 
 ### Setup
 
 - Add the bot to Database Channel with all permission
-- Add bot to Four ForceSub channels as Admin with Invite Users via Link Permission if you enabled ForceSub 
+- Add bot to 4 ForceSub channels as Admin with Invite Users via Link Permission if you enabled ForceSub 
 
 #### Deploy on Koyeb
 
