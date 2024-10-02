@@ -57,7 +57,7 @@ The fastest way to deploy the application is to click the **Deploy to Koyeb** bu
 * `DATABASE_URL` Your mongo db url
 * `DATABASE_NAME` Your mongo db session name
 * `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
-* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/TitanXBots/FileStore/blob/main/README.md#start_message'>fillings</a>
+* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/TitanXBots/FileStore/blob/Koyeb/README.md#start_message'>fillings</a>
 * `FORCE_SUB_MESSAGE`Optional:Force sub message of bot, use HTML and Fillings
 * `FORCE_SUB_CHANNEL` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
 * `PROTECT_CONTENT` Optional: True if you need to prevent files from forwarding
