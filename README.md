@@ -71,8 +71,8 @@ Report Bugs, Give Feature Requests There...
 <h3>「 ᴄʀᴇᴅɪᴛs 」
 </h3>
 
-- <b>[ᴛɪᴛᴀɴx ʙᴏᴛꜱ](https://t.me/TitanXBots)  ➣  [ʙᴀsᴇ ᴄᴏᴅᴇ](https://t.me/TitanXBots) </b>
-- <b>[Yᴀsʜ](https://github.com/TitanXBots)  ➢  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://t.me/Pirates_Titans) </b>
+- <b>[ᴛɪᴛᴀɴx ʙᴏᴛꜱ](https://t.me/TitanXBots)   ➣   [ʙᴀsᴇ ᴄᴏᴅᴇ](https://t.me/TitanXBots) </b>
+- <b>[Yᴀsʜ](https://github.com/TitanXBots)   ➢   [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://t.me/Pirates_Titans) </b>
  
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/TitanXBots) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ file store ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤🤍 </b>
 
