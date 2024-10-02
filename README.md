@@ -68,12 +68,6 @@ Join Our [Telegram Group](https://www.telegram.dog/TitanMattersSupport) For Supp
    
 Report Bugs, Give Feature Requests There...   
 
-### 📌 𝑵𝒐𝒕𝒆
-
-ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.
-
-   **ꜱᴛᴀʀ ᴛʜɪꜱ ʀᴇᴘᴏ ɪꜰ ʏᴏᴜ ʟɪᴋᴇᴅ ɪᴛ ⭐⭐⭐⭐⭐**
-
 ### Contact Me
 
 Contact The Owner of This Repo In Telegram
@@ -88,3 +82,9 @@ Contact The Owner of This Repo In Telegram
 <a href="https://telegram.me/TitanXBots"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.youtube.com/@TitanTechMatters"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
+
+### 📌 𝑵𝒐𝒕𝒆
+
+ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ
+
+   **ꜱᴛᴀʀ ᴛʜɪꜱ ʀᴇᴘᴏ ɪꜰ ʏᴏᴜ ʟɪᴋᴇᴅ ɪᴛ ⭐⭐⭐⭐⭐**
